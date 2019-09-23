@@ -1,0 +1,53 @@
+1.	What is a variable?
+A simple form of data storage in a computer, where the value of a variable can change depending on the sort of data you want it to hold
+
+2.	Give 3 examples of types of data that we have seen in class so far.
+examples of data:
+int (Integer): can only have a value of a whole number, positive or negative, such as -2, 0, 6.
+
+char (Character): can hold the value of a single character, such as 'p',
+'9', and 'W'
+
+boolean: can hold a value of either True or False
+
+3.	What does the assignment statement do? Give a small example.
+gives a variable a value. if the variable in the statement has not been declared yet, the statement will declare the variable too.
+
+Example:
+a = 4
+
+4.	What is a boolean expression? Give an example.
+a boolean expression is an expression that can be evaluated to return a value of either True or False.
+
+Example:
+passCourse = homeworkGrade >= 50 and examGrade >= 50
+
+5.	Python has several built-in type conversion functions. List two and show an example of each.
+int(thing_to_be_converted_here)
+str(thing_to_be_converted_here)
+
+example 1:
+birth_year = 2001
+print("You are " + str(2019 - birth_year) + " years old!")
+
+example 2:
+some_int = 2 + int("4")
+
+6.	Why is indentation important in Python? What purpose does it serve?
+without indentation, python cannot tell when certain code structures begin or end. another purpose of having indentation in python is making code more readable to yourself or other people reading your source code
+
+7.	List two comparison operators and give examples of how they are used.
+1) and
+2) or
+
+example 1:
+if thirsty and waterBottleNotEmpty:
+    drink(waterBottle)
+
+example 2:
+if thingsAreDue or stressedOut:
+    procrastinate()
+
+8.	Name a logical operator.
+not
+

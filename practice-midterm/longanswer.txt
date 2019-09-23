@@ -1,0 +1,47 @@
+1.	Convert the decimal number 357 to binary.
+357 / 2 = 178   + R 1
+178 / 2 = 89    + R 0
+89 / 2  = 44    + R 1
+44 / 2  = 22    + R 0
+22 / 2  = 11    + R 0
+11 / 2  = 5     + R 1
+5 / 2   = 2     + R 1
+2 / 2   = 1     + R 0
+1 / 2   = 0     + R 1
+
+0b101100101
+
+2.	Convert the binary number 0b1011011 to decimal
+1 = 2**1 = 2
+1 = 2**2 = 4
+0
+1 = 2**4 = 16
+1 = 2**5 = 32
+0
+1 = 2**7 = 128
+          +___
+           182
+
+therefore, 0b1011011 is 182 in decimal
+
+3.	Simplify the logical expression below:
+not (((1 >= 1) and (3 == 4)) or ((not True) or (False)))
+
+not (((1 >= 1) and (3 == 4)) or ((False) or (False)))
+not (((1 >= 1) and (3 == 4)) or (False))
+not (((1 >= 1) and (3 == 4)))
+not (((1 >= 1) and (False)))
+not (((True) and (False)))
+not ((False))
+True
+
+4.	Simplify the logical expression below:
+not ((not (True and (not (False or True)))) or (5 < 5))
+
+not ((not (True and (not (False or True)))) or (False))
+not ((not (True and (not (False or True)))))
+not ((not (True and (not (True)))))
+not ((not (True and (False))))
+not ((not (False)))
+not ((True))
+False
