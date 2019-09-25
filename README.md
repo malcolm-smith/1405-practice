@@ -1,4 +1,4 @@
-# 1405-practice-problems
+# 1405-practice
 for uploading all my 1405 practice solutions, practice for midterms
 <table>
 <tr><th>Problem Sets</th><th>Practice Midterms</th></tr>
