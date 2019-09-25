@@ -38,7 +38,7 @@ for uploading all my 1405 practice solutions, practice for midterms
 |             |            [9](./psets/4/)            |   `NO`   |
 |             |           [10](./psets/4/)            |   `NO`   |
 |             |           [11](./psets/4/)            |   `NO`   |
-|             |           [12](./psets/4/)            |   `NO`   |
+|             |  [12](./psets/4/trackingNumbers.py)   |   `NO`   |
 
 [PP1]:./psets/1/PP1.pdf
 [PP2]:./psets/2/PP2.pdf
