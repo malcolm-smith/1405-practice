@@ -56,6 +56,6 @@ for uploading all my 1405 practice solutions, practice for midterms
 |         | [3](https://github.com/malcolm-smith/1405-practice-problems/blob/master/midterm-practice/01/code-p3.py) |  `DONE`  |
 |         | [4](https://github.com/malcolm-smith/1405-practice-problems/blob/master/midterm-practice/01/code-p4.py) |  `DONE`  |
 
-[M1]:https://github.com/malcolm-smith/1405-practice-problems/blob/master/midterm-practice/01/pm1.pdf
+[M1]:./midterm-practice/01/pm1.pdf
 
 </td></tr> </table>
