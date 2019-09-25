@@ -27,18 +27,18 @@ for uploading all my 1405 practice solutions, practice for midterms
 |             |            [7](./psets/3/)            |   `NO`   |
 |             |            [8](./psets/3/)            |   `NO`   |
 |    [PP4]    |                                       |   `NO`   |
-|             |      [1](./psets/4/divisors.py)       |  `DONE`  |
-|             |   [2](./psets/4/vegetableGarden.py)   |  `DONE`  |
-|             |     [3](./psets/4/numOfDigits.py)     |  `DONE`  |
-|             |            [4](./psets/4/)            |   `NO`   |
+|             |      [1](./psets/04/divisors.py)      |  `DONE`  |
+|             |  [2](./psets/04/vegetableGarden.py)   |  `DONE`  |
+|             |    [3](./psets/04/numOfDigits.py)     |  `DONE`  |
+|             |           [4](./psets/04/)            |   `NO`   |
 |             |   [5](./psets/4/trackingNumbers.py)   |  `DONE`  |
-|             |            [6](./psets/4/)            |   `NO`   |
-|             |            [7](./psets/4/)            |   `NO`   |
-|             |            [8](./psets/4/)            |   `NO`   |
-|             |            [9](./psets/4/)            |   `NO`   |
-|             |           [10](./psets/4/)            |   `NO`   |
-|             |           [11](./psets/4/)            |   `NO`   |
-|             |  [12](./psets/4/trackingNumbers.py)   |   `NO`   |
+|             |           [6](./psets/04/)            |   `NO`   |
+|             |           [7](./psets/04/)            |   `NO`   |
+|             |           [8](./psets/04/)            |   `NO`   |
+|             |           [9](./psets/04/)            |   `NO`   |
+|             |           [10](./psets/04/)           |   `NO`   |
+|             |           [11](./psets/04/)           |   `NO`   |
+|             |           [12](./psets/04/)           |   `NO`   |
 
 [PP1]:./psets/1/PP1.pdf
 [PP2]:./psets/2/PP2.pdf
