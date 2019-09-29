@@ -40,10 +40,10 @@ for uploading all my 1405 practice solutions, practice for midterms
 |             |           [11](./psets/04/)           |   `NO`   |
 |             |           [12](./psets/04/)           |   `NO`   |
 
-[PP1]:./psets/1/PP1.pdf
-[PP2]:./psets/2/PP2.pdf
-[PP3]:./psets/3/PP3.pdf
-[PP4]:./psets/4/PP4.pdf
+[PP1]:./psets/01/PP1.pdf
+[PP2]:./psets/02/PP2.pdf
+[PP3]:./psets/03/PP3.pdf
+[PP4]:./psets/04/PP4.pdf
 
 </td><td>
 
