@@ -2,6 +2,11 @@ import re
 
 # convert between CAD, USD, GBP, EUR, JPY
 
+#           Example Output
+# Enter your currency, amount: cad 56
+# Type of currency to convert to: usd
+# 56.00 CAD is equal to 42.00 USD
+
 currencyList = {
     "CAD": 1.00,
     "USD": 0.75,
