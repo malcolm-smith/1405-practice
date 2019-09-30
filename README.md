@@ -30,7 +30,7 @@ for uploading all my 1405 practice solutions, practice for midterms
 |             |      [1](./psets/04/divisors.py)      |  `DONE`  |
 |             |  [2](./psets/04/vegetableGarden.py)   |  `DONE`  |
 |             |    [3](./psets/04/numOfDigits.py)     |  `DONE`  |
-|             |           [4](./psets/04/)            |   `NO`   |
+|             |   [4](./psets/04/gradeAnalysis.py)    |  `DONE`   |
 |             |   [5](./psets/4/trackingNumbers.py)   |  `DONE`  |
 |             |           [6](./psets/04/)            |   `NO`   |
 |             |           [7](./psets/04/)            |   `NO`   |
