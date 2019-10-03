@@ -1,0 +1,55 @@
+>python a2p3.py
+Welcome, to Buy-nary Computing!			
+Please enter your name to begin: Andrew
+	
+Please select a product from the following menu:
+1. Desktop Computer ($850 each, 15 in stock)
+2. Laptop Computer ($1225 each, 15 in stock)
+3. Tablet ($600 each, 15 in stock)
+4. Toaster Oven ($85 each, 15 in stock)
+5. Complete Order
+
+> 1
+
+How many Desktop Computers would you like to purchase? 12
+	
+Please select a product from the following menu:
+1. Desktop Computer ($850 each, 3 in stock)
+2. Laptop Computer ($1225 each, 15 in stock)
+3. Tablet ($600 each, 15 in stock)
+4. Toaster Oven ($85 each, 15 in stock)
+5. Complete Order
+
+> 4
+
+How many Toaster Ovens would you like to purchase? 3
+	
+Please select a product from the following menu:
+1. Desktop Computer ($850 each, 3 in stock)
+2. Laptop Computer ($1225 each, 15 in stock)
+3. Tablet ($600 each, 15 in stock)
+4. Toaster Oven ($85 each, 12 in stock)
+5. Complete Order
+
+> 1
+
+How many Desktop Computers would you like to purchase? 4
+	
+Sorry, we don’t have that many Desktop Computers.	
+
+Please select a product from the following menu:
+1. Desktop Computer ($850 each, 3 in stock)
+2. Laptop Computer ($1225 each, 15 in stock)
+3. Tablet ($600 each, 15 in stock)
+4. Toaster Oven ($85 each, 12 in stock)
+5. Complete Order
+
+> 5
+	
+Andrew, here is your receipt:
+-------------------------------------
+12 Desktop computers
+3 Toaster Ovens
+-------------------------------------
+Total cost: 10455.00	
+Thank you, have a nice day!

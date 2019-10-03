@@ -1,0 +1,35 @@
+Expected Results for numbertest0.txt
+Largest Number = 72
+Smallest Number = -59
+Average Value = 10.3
+Positive Numbers = 37
+Negative Numbers = 22
+
+Expected Results for numbertest1.txt
+Largest Number = 89
+Smallest Number = -72
+Average Value = 14.790697674418604
+Positive Numbers = 23
+Negative Numbers = 20
+
+Expected Results for numbertest2.txt
+Largest Number = 76
+Smallest Number = -68
+Average Value = 6.836363636363636
+Positive Numbers = 30
+Negative Numbers = 25
+
+Expected Results for numbertest3.txt
+Largest Number = 73
+Smallest Number = -69
+Average Value = 1.2641509433962264
+Positive Numbers = 28
+Negative Numbers = 25
+
+Expected Results for numbertest4.txt
+Largest Number = 81
+Smallest Number = -61
+Average Value = 2.1578947368421053
+Positive Numbers = 18
+Negative Numbers = 20
+

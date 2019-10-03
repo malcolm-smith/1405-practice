@@ -1,0 +1,5 @@
+Number of Passes: 45
+Number of Fails: 23
+Average Final Grade: 64.83823529411765
+The Highest Grade: Lee Wilson - 93.75
+The Lowest Grade: Denise Forman - 38.0

@@ -1,0 +1,5 @@
+Number of Passes: 54
+Number of Fails: 11
+Average Final Grade: 70.63461538461539
+The Highest Grade: Joan Esquilin - 96.0
+The Lowest Grade: Louis Cintron - 49.5

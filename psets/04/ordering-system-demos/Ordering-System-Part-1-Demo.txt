@@ -1,0 +1,31 @@
+>python a2p1.py
+
+	Welcome, to Buy-nary Computing!			
+	Please enter your name to begin: Andrew
+	
+	Please select a product from the following menu:
+	1. Desktop Computer ($850 each)
+	2. Laptop Computer ($1225 each)
+	3. Tablet ($600 each)
+	4. Toaster Oven ($85 each)
+	
+	> 7
+
+I'm sorry, that's not a valid selection. Please enter a selection from 1-4.
+
+	Please select a product from the following menu:
+	1. Desktop Computer ($850 each)
+	2. Laptop Computer ($1225 each)
+	3. Tablet ($600 each)
+	4. Toaster Oven ($85 each)
+
+	> 1
+
+	How many Desktop Computers would you like to purchase? 12
+	
+	Andrew, here is your receipt:
+	-------------------------------
+	12 Desktop Computers
+	-------------------------------
+	Total cost: $10200.00.	
+	Thank you, have a nice day!
