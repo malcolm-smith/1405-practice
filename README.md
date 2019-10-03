@@ -62,6 +62,10 @@ for uploading all my 1405 practice solutions, practice for midterms
 </td></tr> </table>
 
 Alternate Solutions
+[Midterm 1 P4](./midterm-practice/01/code-p4-v2.py)
+[Midterm 1 P3](./midterm-practice/01/code-p3-v2.py)
+[Midterm 1 P2](./midterm-practice/01/code-p2-v2.py)
+[Midterm 1 P1](./midterm-practice/01/code-p1-v2.py)
 [PP4P9](./psets/04/PP4P9.py)
 [PP4P8](./psets/04/PP4P8.py)
 [PP4P7](./psets/04/PP4P7.py)
