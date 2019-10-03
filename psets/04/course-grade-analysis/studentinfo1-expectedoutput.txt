@@ -1,0 +1,5 @@
+Number of Passes: 46
+Number of Fails: 60
+Average Final Grade: 51.2688679245283
+The Highest Grade: Audrey Hatcher - 87.25
+The Lowest Grade: Larry Lindstedt - 18.25

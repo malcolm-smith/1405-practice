@@ -1,0 +1,5 @@
+Number of Passes: 9
+Number of Fails: 1
+Average Final Grade: 64.55
+The Highest Grade: Patty Marshall - 79.5
+The Lowest Grade: William Gray - 48.75

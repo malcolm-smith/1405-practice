@@ -1,0 +1,5 @@
+Number of Passes: 62
+Number of Fails: 30
+Average Final Grade: 66.39673913043478
+The Highest Grade: Deborah Harrison - 91.5
+The Lowest Grade: Debbie Jones - 40.75
