@@ -55,10 +55,10 @@ for uploading all 1405 practice solutions, practice for midterms
 |         | [3](./midterm-practice/01/problem-03/) |    `2`    |
 |         | [4](./midterm-practice/01/problem-04/) |    `2`    |
 |  [M1]   |                                        |           |
-|         | [1](./midterm/01/part 1/)              |    `1`    |
-|         | [2](./midterm/01/part 2/)              |    `1`    |
-|         | [3](./midterm/01/part 3/)              |    `1`    |
-|         | [4](./midterm/01/part 4/)              |    `1`    |
+|         | [1](./midterm/01/part_1/)              |    `1`    |
+|         | [2](./midterm/01/part_2/)              |    `1`    |
+|         | [3](./midterm/01/part_3/)              |    `1`    |
+|         | [4](./midterm/01/part_4/)              |    `1`    |
 
 [m1 - Practice]: ./midterm-practice/01/pm1.pdf
 [m1 - Real]: ./midterm/01/pm1.pdf
