@@ -57,6 +57,10 @@ for uploading all my 1405 practice solutions, practice for midterms
 
 [M1]:./midterm-practice/01/pm1.pdf
 
+
+
+</td></tr> </table>
+
 Alternate Solutions
 [PP4P9](./psets/04/PP4P9.py)
 [PP4P8](./psets/04/PP4P8.py)
@@ -83,6 +87,3 @@ Alternate Solutions
 [PP2P3](./psets/04/PP2P3.py)
 [PP2P2](./psets/04/PP2P2.py)
 [PP2P1](./psets/04/PP2P1.py)
-
-
-</td></tr> </table>
