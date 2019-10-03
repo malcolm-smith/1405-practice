@@ -60,7 +60,7 @@ for uploading all 1405 practice solutions, practice for midterms
 |         | [3](./midterm/01/part_3/)              |    `1`    |
 |         | [4](./midterm/01/part_4/)              |    `1`    |
 
-[m1 - Practice]: ./midterm-practice/01/pm1.pdf
-[m1 - Real]: ./midterm/01/pm1.pdf
+[Prac-1]: ./midterm-practice/01/pm1.pdf
+[M1]: ./midterm/01/pm1.pdf
 
 </td></tr> </table>
