@@ -37,8 +37,8 @@ for uploading all 1405 practice solutions, practice for midterms
 |             |     [7 - Increasing Sequences](./psets/04/07-increasing-sequences)     |    `1`    |
 |             | [8 - Trip Distance Calculator](./psets/04/08-trip-distance-calculator) |    `1`    |
 |             |             [9 - Trip Planner](./psets/04/09-trip-planner)             |    `1`    |
-|             |         [10 - Trivia Game Pt 2](./psets/04/10-trivia-game-pt2)         |    `1`    |
-|             |           [11 - Search Engine](./psets/04/11-search-engine)            |    `1`    |
+|             |         [10 - Trivia Game Pt 2](./psets/04/10-trivia-game-pt2)         |    `0`    |
+|             |           [11 - Search Engine](./psets/04/11-search-engine)            |    `0`    |
 
 [pp1]: ./psets/01/PP1.pdf
 [pp2]: ./psets/02/PP2.pdf
@@ -49,12 +49,18 @@ for uploading all 1405 practice solutions, practice for midterms
 
 | Midterm |                Problem                 | Solutions |
 | :-----: | :------------------------------------: | :-------: |
-|  [M1]   |                                        |           |
+| [Prac-1]|                                        |           |
 |         | [1](./midterm-practice/01/problem-01/) |    `2`    |
 |         | [2](./midterm-practice/01/problem-02/) |    `2`    |
 |         | [3](./midterm-practice/01/problem-03/) |    `2`    |
 |         | [4](./midterm-practice/01/problem-04/) |    `2`    |
+|  [M1]   |                                        |           |
+|         | [1](./midterm/01/part 1/)              |    `1`    |
+|         | [2](./midterm/01/part 2/)              |    `1`    |
+|         | [3](./midterm/01/part 3/)              |    `1`    |
+|         | [4](./midterm/01/part 4/)              |    `1`    |
 
-[m1]: ./midterm-practice/01/pm1.pdf
+[m1 - Practice]: ./midterm-practice/01/pm1.pdf
+[m1 - Real]: ./midterm/01/pm1.pdf
 
 </td></tr> </table>
