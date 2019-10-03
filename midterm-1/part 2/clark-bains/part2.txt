@@ -1,0 +1,26 @@
+2.1	 Convert the decimal number 177 to binary.
+    (1)128 2e7 (R49)     
+    (0)64  2e6
+    (1)32  2e5 (R17)
+    (1)16  2e4 (R1)
+    (0)8   2e3
+    (0)4   2e2
+    (0)2   2e1
+    (1)1   2e0 (R0)
+
+    Dec 177 = 0b10110001
+	
+2.2	 Convert the binary number 0b1100110 to decimal. 
+    (1)64  2e6
+    (1)32  2e5  
+    (0)16  2e4 
+    (0)8   2e3
+    (1)4   2e2
+    (1)2   2e1
+    (0)1   2e0 
+    = 2+4+32+64
+    = Dec 102
+
+	
+	
+	

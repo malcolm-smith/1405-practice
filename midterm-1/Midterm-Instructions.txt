@@ -1,0 +1,11 @@
+Exam Instructions:
+
+1. Leave Login.jar running throughout the midterm
+2. Open the PDF file to see the midterm questions
+3. Work on the files within the exam folder - do not move them elsewhere
+4. When you are finished or out of time, double-check that you have saved all of your files and that they contain the correct information
+5. Close Login.jar, this will upload your files automatically
+6. Verify your upload contents by looking in the 'archives' folder for a firstname-lastname.zip file. This zip file should have all of your files
+7. Sign out at the front of the room before leaving
+
+If you think there has been an error with the system at any point, ask one of the proctors for assistance.

@@ -1,0 +1,25 @@
+1.1	 What is a variable?
+    A variable is a place in memory to hold data for your program. It holds information like numbers, strings, objects. 
+
+1.2	 List two comparison operators and give examples of how they are used.
+    >   Greater than. Will return true if the value on the left is greater than the value on the right.
+    ==   Equal to. Will return true if the value on the left is equal to the value on the right.
+
+    Both of these are typically used in loops or conditionals to modify the flow of the program based on input to the program.
+
+
+1.3	 What does the assignment statement do? Give a small example.
+    The assignment statement assigns a value to a variable.
+    In x = 5, the variable x is set to 5.
+
+
+1.4	 Name 2 logical operators.
+    and Evaluates only to true if the left and right sides both evaluate to true.
+    not Evaluates to the oposite of the expression to the right, so (not True) == False
+
+
+1.5	 Why is indentation important in Python? What purpose does it serve?
+    Indentation serves to define the logical flow of a program. It is important to show the python interpreter which code is part of an if, while, for try, etc. Without it, python would have no idea what is part of the if statement.
+    In many other languages this is accomplished with {}
+
+
