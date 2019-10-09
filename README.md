@@ -1,9 +1,9 @@
-# 1405-practice
+# COMP 1405 B Practice Problems
 
-for uploading all 1405 practice solutions, practice for midterms
+Here you can find solutions for all COMP 1405 practice problems. Either fork and pull request or send me your solutions to upload your own solutions!
 
 <table>
-<tr><th>Problem Sets</th><th>Practice Midterms</th></tr>
+<tr><th>Problem Sets</th><th>Practice Midterms</th><th>Midterms</th></tr>
 <tr><td>
 
 | Problem Set |                                Problem                                 | Solutions |
@@ -44,6 +44,7 @@ for uploading all 1405 practice solutions, practice for midterms
 [pp2]: ./psets/02/PP2.pdf
 [pp3]: ./psets/03/PP3.pdf
 [pp4]: ./psets/04/PP4.pdf
+[here]: ./howto.md
 
 </td><td>
 
@@ -54,7 +55,72 @@ for uploading all 1405 practice solutions, practice for midterms
 |         | [2](./midterm-practice/01/problem-02/) |    `2`    |
 |         | [3](./midterm-practice/01/problem-03/) |    `2`    |
 |         | [4](./midterm-practice/01/problem-04/) |    `2`    |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
+|         |                   -                    |           |
 
 [m1]: ./midterm-practice/01/pm1.pdf
+
+</td><td>
+
+| Midterm |        Problem         | Solutions |
+| :-----: | :--------------------: | :-------: |
+| [M1 V1] |                        |           |
+|         | [3](./midterms/V1/03/) |    `2`    |
+|         | [4](./midterms/V1/04/) |    `2`    |
+| [M1 V2] |                        |           |
+|         | [3](./midterms/V2/03/) |    `2`    |
+|         | [4](./midterms/V2/04/) |    `2`    |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+|         |           -            |           |
+
+[m1 v1]: ./midterm-practice/
+[m1 v2]: ./midterm-practice/
 
 </td></tr> </table>
