@@ -1,6 +1,6 @@
-# COMP 1405 B Practice Problems
+# COMP 1405 B Practice
 
-Here you can find solutions for all COMP 1405 practice problems. Either fork and pull request or send me your solutions to upload your own solutions!
+Here you can find solutions for COMP 1405 material. Either fork and pull request or send me your solutions to upload your own solutions!
 
 <table>
 <tr><th>Problem Sets</th><th>Practice Midterms</th><th>Midterms</th></tr>
