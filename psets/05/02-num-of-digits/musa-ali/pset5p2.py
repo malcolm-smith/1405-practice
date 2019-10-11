@@ -9,6 +9,7 @@ def numDigits(int):
 		counter += 1
 	return counter
 
+# Test cases
 print(numDigits(5000)) # returns 4
 print(numDigits(150)) # returns 3
 print(numDigits(12345678910)) # returns 11
