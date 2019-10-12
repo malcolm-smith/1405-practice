@@ -8,25 +8,6 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 | Problem Set |                                Problem                                 |
 | :---------: | :--------------------------------------------------------------------: |
-|    [PP1]    |                                                                        |
-|             |                                  1-14                                  |
-|    [PP2]    |                                                                        |
-|             |              [1 - Hello World](./psets/02/01-hello-world)              |
-|             |               [2 - User Input](./psets/02/02-user-input)               |
-|             |                [3 - Name / Age](./psets/02/03-name-age)                |
-|             |               [4 - Conversion](./psets/02/04-conversion)               |
-|             |                   [5 - Volume](./psets/02/05-volume)                   |
-|             |         [6 - Grade Calculator](./psets/02/06-grade-calculator)         |
-|             |                 [7 - Guessing](./psets/02/07-guessing)                 |
-|    [PP3]    |                                                                        |
-|             |        [1 - Simple Calculator](./psets/03/01-simple-calculator)        |
-|             |               [2 - Leap Years](./psets/03/02-leap-years)               |
-|             |         [3 - Movie Expert System](./psets/03/03-movie-expert)          |
-|             |      [4 - Currency Conversion](./psets/03/04-currency-conversion)      |
-|             |                 [5 - Stop / Go](./psets/03/05-stop-go)                 |
-|             |               [6 - Pass / Fail](./psets/03/06-pass-fail)               |
-|             |         [7 - Trivia Game Pt 1](./psets/03/07-trivia-game-pt1)          |
-|             |              [8 - Tic Tac Toe](./psets/03/08-tic-tac-toe)              |
 |    [PP4]    |                                                                        |
 |             |                 [1 - Divisors](./psets/04/01-divisors)                 |
 |             |         [2 - Vegetable Garden](./psets/04/02-vegetable-garden)         |
@@ -39,11 +20,31 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |             [9 - Trip Planner](./psets/04/09-trip-planner)             |
 |             |         [10 - Trivia Game Pt 2](./psets/04/10-trivia-game-pt2)         |
 |             |           [11 - Search Engine](./psets/04/11-search-engine)            |
+|    [PP3]    |                                                                        |
+|             |        [1 - Simple Calculator](./psets/03/01-simple-calculator)        |
+|             |               [2 - Leap Years](./psets/03/02-leap-years)               |
+|             |         [3 - Movie Expert System](./psets/03/03-movie-expert)          |
+|             |      [4 - Currency Conversion](./psets/03/04-currency-conversion)      |
+|             |                 [5 - Stop / Go](./psets/03/05-stop-go)                 |
+|             |               [6 - Pass / Fail](./psets/03/06-pass-fail)               |
+|             |         [7 - Trivia Game Pt 1](./psets/03/07-trivia-game-pt1)          |
+|             |              [8 - Tic Tac Toe](./psets/03/08-tic-tac-toe)              |
+|    [PP2]    |                                                                        |
+|             |              [1 - Hello World](./psets/02/01-hello-world)              |
+|             |               [2 - User Input](./psets/02/02-user-input)               |
+|             |                [3 - Name / Age](./psets/02/03-name-age)                |
+|             |               [4 - Conversion](./psets/02/04-conversion)               |
+|             |                   [5 - Volume](./psets/02/05-volume)                   |
+|             |         [6 - Grade Calculator](./psets/02/06-grade-calculator)         |
+|             |                 [7 - Guessing](./psets/02/07-guessing)                 |
+|    [PP1]    |                                                                        |
+|             |                                  1-14                                  |
 
-[pp1]: ./psets/01/PP1.pdf
-[pp2]: ./psets/02/PP2.pdf
-[pp3]: ./psets/03/PP3.pdf
-[pp4]: ./psets/04/PP4.pdf
+[PP1]: ./psets/01/PP1.pdf
+[PP2]: ./psets/02/PP2.pdf
+[PP3]: ./psets/03/PP3.pdf
+[PP4]: ./psets/04/PP4.pdf
+[PP5]: ./psets/05/PP5/pdf
 [here]: ./howto.md
 
 </td><td>
