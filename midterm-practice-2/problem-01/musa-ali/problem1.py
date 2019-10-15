@@ -23,5 +23,6 @@ def main():
 	num = random.randint(0, 100)
 	check_guess(num)
 
+
 if __name__ == '__main__':
 	main()
