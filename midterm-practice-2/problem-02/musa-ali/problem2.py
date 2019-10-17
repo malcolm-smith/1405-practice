@@ -22,28 +22,20 @@ def get_average_grade(filename):
 def get_best_student(filename):
 	with open(filename, "r") as fin:
 
-		max_grade = 0
+		highest = 0
+		
+		# Gets highest grade
+		for i, line in enumerate(fin, start=1):
+			if i % 2 == 0:
+				if int(line) > highest:
+					highest = int(line)
 
-		# Get highest grade
-		for num, line in enumerate(fin, start=1):
-			if num % 2 == 0:
-				if int(line) > max_grade:
-					max_grade = int(line)
-
-		fin.seek(0)
-
-		# Get student number associated with highest grade
-		for x, line in enumerate(fin, start=1):
-			if x % 2 == 0:
-				if int(line) == max_grade:
-					student_line = x-2
-
-		fin.seek(0)
-
-		lines = fin.readlines()
-		best_student = lines[student_line]
-
-		return best_student	
+			# Gets the line before the highest grade (the ID of the student)
+			if int(line) == highest:
+				student = temp_student
+			temp_student = int(line)
+		
+		return student
 
 
 def main():
@@ -57,7 +49,7 @@ def main():
 
 		print("\n    File: " + file)
 		print("    Average grade: " + "%.2f" % average)
-		print("    Best student: " + best_student)
+		print("    Best student: " + str(best_student))
 
 
 if __name__ == '__main__':
