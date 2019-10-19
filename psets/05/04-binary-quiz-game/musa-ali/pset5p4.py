@@ -30,7 +30,7 @@ def decToBin(n):
 
 # Returns users guess of binary value of chosen integer 
 def userBin(n):
-	print("\nThe number is: " + str(n))
+	print("\nThe number is " + str(n))
 	bin_val = input("Enter the corresponding binary value: ")
 	return bin_val
 

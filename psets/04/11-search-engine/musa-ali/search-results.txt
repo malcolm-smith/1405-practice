@@ -16,6 +16,7 @@ Max Count: 16
 Max Page (Ratio): N-0.txt
 Max Ratio: 0.22857142857142856
 
+Enter a word to search for: peach
 Max Page (Count): N-4.txt
 Max Count: 14
 Max Page (Ratio): N-1.txt
