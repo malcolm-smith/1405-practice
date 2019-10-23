@@ -1,5 +1,5 @@
 def sequenceLength(filename):
-    count = 0
+    count = 1
     longest = 0
     previous = -1
     for line in open(filename):
@@ -10,6 +10,8 @@ def sequenceLength(filename):
                 longest = count
             count = 1
         previous = int(line)
+    if count > longest:
+        return count
     return longest
 
 print(sequenceLength('sequence1.txt'))
