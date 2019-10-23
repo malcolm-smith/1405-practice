@@ -10,6 +10,7 @@ def sequenceLength(filename):
                 longest = count
             count = 1
         previous = int(line)
+    # check if the last sequence is the longest sequence
     if count > longest:
         return count
     return longest
