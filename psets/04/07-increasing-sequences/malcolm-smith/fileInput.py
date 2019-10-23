@@ -4,12 +4,12 @@ def sequenceLength(filename):
     current = -1
     for line in open(filename):
         if int(line) > current:
-            current = int(line)
             count += 1
         else:
             if count > longest:
                 longest = count
-            count = 0
+            count = 1
+        current = int(line)
     return longest
 
 print(sequenceLength('sequence1.txt'))
