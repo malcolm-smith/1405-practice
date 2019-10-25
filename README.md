@@ -68,7 +68,8 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 [pp2]: ./psets/02/PP2.pdf
 [pp3]: ./psets/03/PP3.pdf
 [pp4]: ./psets/04/PP4.pdf
-[pp5]: ./psets/05/PP5/pdf
+[pp5]: ./psets/05/PP5.pdf
+[pp6]: ./psets/06/PP6.pdf
 
 </td><td>
 
