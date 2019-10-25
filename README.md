@@ -25,7 +25,6 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |     [14 - Search Engine Pt 2](./psets/06/14-search-engine-part-2)      |
 |             |           [15 - Tic Tac Toe Pt 2](./psets/06/15-tic-tac-toe-part-2)    |
 |             |     [16 - Social Network Pt 2](./psets/06/16-social-network-part-2)    |
-
 |    [PP5]    |                                                                        |
 |             |         [1 - Common Multiples](./psets/05/01-common-multiples)         |
 |             |          [2 - Number of Digits](./psets/05/02-num-of-digits)           |
