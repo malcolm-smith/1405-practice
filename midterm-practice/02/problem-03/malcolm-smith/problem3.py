@@ -9,6 +9,8 @@ def analyze(filename):
             if count > longest:
                 longest = count
             count = 0
+    if count > longest:
+        return count
     return longest
 
 print(analyze('nums.txt'))
