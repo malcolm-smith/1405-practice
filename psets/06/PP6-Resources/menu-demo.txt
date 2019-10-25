@@ -1,0 +1,231 @@
+This is example output created by the main() function when it is run. The inventory.txt file that is loaded in this example is included on the assignment. You can use it as a starting point for your own file or create your own by adding products through the menu.
+
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+There are no products that match.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>1
+Enter the file name to load from:inventory.txt
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+1. Desktop Computer, 3Ghz, 16GB RAM, 250GB Hard Drive, $1200.0, 10 units in stock
+2. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>3
+Enter the product name: Tablet
+Enter the product description: 9 inch tablet
+Enter the product price: 750
+Enter the starting stock amount: 12
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+1. Desktop Computer, 3Ghz, 16GB RAM, 250GB Hard Drive, $1200.0, 10 units in stock
+2. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+3. Tablet, 9 inch tablet, $750.0, 12 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>4
+Enter the product name: tablet
+Enter the number of units to add: 15
+Product added successfully.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+1. Desktop Computer, 3Ghz, 16GB RAM, 250GB Hard Drive, $1200.0, 10 units in stock
+2. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+3. Tablet, 9 inch tablet, $750.0, 27 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>4
+Enter the product name: iphone
+Enter the number of units to add: 9
+The product could not be added.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>6
+Enter the keyword: RAM
+1. Desktop Computer, 3Ghz, 16GB RAM, 250GB Hard Drive, $1200.0, 10 units in stock
+2. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>7
+Enter the product name: desktop computer
+Enter the number of units: 8
+Transaction successful.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+1. Desktop Computer, 3Ghz, 16GB RAM, 250GB Hard Drive, $1200.0, 2 units in stock
+2. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+3. Tablet, 9 inch tablet, $750.0, 27 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>7
+Enter the product name: desktop computer
+Enter the number of units: 3
+The transaction could not be processed.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>8
+Enter the product name: desktop computer
+Product successfully removed.
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>5
+1. Laptop Computer, 2.5Ghz, 8GB RAM, 128GB Hard Drive, 15" Screen, $1500.0, 15 units in stock
+2. Tablet, 9 inch tablet, $750.0, 27 units in stock
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>2
+Enter the file name to save to:inventory.txt
+
+Choose an option below to proceed:
+1. Load Inventory
+2. Save Inventory
+3. Add New Product
+4. Add Product Stock
+5. List Products
+6. Search Products
+7. Sell Products
+8. Remove Product
+9. Quit
+>9

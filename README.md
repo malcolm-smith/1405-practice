@@ -9,27 +9,27 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 | Problem Set |                                Problem                                 |
 | :---------: | :--------------------------------------------------------------------: |
 |    [PP6]    |                                                                        |
-|             |         [1 - Merging Sorted Lists](./psets/06/01-merge-sorted)         |
-|             |         [2 - Storing Sensor Data](./psets/06/02-sensor-data)           |
-|             |         [3 - Largest Number](./psets/06/03-largest-number)             |
-|             |        [4 - Largest Volume](./psets/06/04-largest-volume)              |
-|             |           [5 - Top X](./psets/06/05-top-x)                             |
-|             |           [6 - Getting Rich](./psets/06/06-getting-rich)               |
-|             |           [7 - Mastermind](./psets/06/07-mastermind)                   |
-|             |         [8 - Queue Implementation](./psets/06/08-queue)                |
-|             |             [9 - Stack Implementation](./psets/06/09-stack)            |
-|             |    [10 - Parentheses Validation](./psets/06/10-parentheses-validation) |
-|             |           [11 - Start and End](./psets/06/11-start-and-end)            |
-|             |                [12 - JSON](./psets/06/12-json)                         |
-|             |    [13 - Inventory System Pt 3](./psets/06/13-inventory-system-part-3) |
-|             |     [14 - Search Engine Pt 2](./psets/06/14-search-engine-part-2)      |
-|             |           [15 - Tic Tac Toe Pt 2](./psets/06/15-tic-tac-toe-part-2)    |
-|             |     [16 - Social Network Pt 2](./psets/06/16-social-network-part-2)    |
+|             |       [1- Merge Sorted Lists](./psets/06/01-merge-sorted-lists)        |
+|             |              [2 - Sensor Data](./psets/06/02-sensor-data)              |
+|             |           [3 - Largest Number](./psets/06/03-largest-number)           |
+|             |           [4 - Largest Volume](./psets/06/04-largest-volume)           |
+|             |                    [5 - Top X](./psets/06/05-top-x)                    |
+|             |             [6 - Getting Rich](./psets/06/06-getting-rich)             |
+|             |               [7 - Mastermind](./psets/06/07-mastermind)               |
+|             |     [8 - Queue Implementation](./psets/06/08-queue-implementation)     |
+|             |     [9 - Stack Implementation](./psets/06/09-stack-implementation)     |
+|             |   [10 - Parentheses Validation](./psets/06/10-parenteses-validation)   |
+|             |       [11 - Start and End Words](./psets/06/11-start-end-words)        |
+|             |                    [12 - JSON](./psets/06/12-JSON)                     |
+|             |      [13 - Inventory System Pt 3](./psets/06/13-inventory-system)      |
+|             |         [14 - Search Engine Pt 2](./psets/06/14-search-engine)         |
+|             |         [15 - Tic Tac Toe Pt 2](./psets/06/15-tic-tac-toe-pt2)         |
+|             |      [16 - Social Network Pt 2](./psets/06/16-social-network-pt2)      |
 |    [PP5]    |                                                                        |
 |             |         [1 - Common Multiples](./psets/05/01-common-multiples)         |
 |             |          [2 - Number of Digits](./psets/05/02-num-of-digits)           |
 |             |             [3 - Prime Number](./psets/05/03-prime-number)             |
-|             |         [4 - Binary Quiz](./psets/05/04-binary-quiz-game)              |
+|             |           [4 - Binary Quiz](./psets/05/04-binary-quiz-game)            |
 |             |           [5 - Grade Analysis](./psets/05/05-grade-analysis)           |
 |             |      [6 - Inventory System Pt 2](./psets/05/06-grade-calculator)       |
 |    [PP4]    |                                                                        |
@@ -43,7 +43,7 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             | [8 - Trip Distance Calculator](./psets/04/08-trip-distance-calculator) |
 |             |             [9 - Trip Planner](./psets/04/09-trip-planner)             |
 |             |         [10 - Trivia Game Pt 2](./psets/04/10-trivia-game-pt2)         |
-|             |           [11 - Search Engine](./psets/04/11-search-engine)            |
+|             |         [11 - Search Engine Pt 1](./psets/04/11-search-engine)         |
 |    [PP3]    |                                                                        |
 |             |        [1 - Simple Calculator](./psets/03/01-simple-calculator)        |
 |             |               [2 - Leap Years](./psets/03/02-leap-years)               |
@@ -52,7 +52,7 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |                 [5 - Stop / Go](./psets/03/05-stop-go)                 |
 |             |               [6 - Pass / Fail](./psets/03/06-pass-fail)               |
 |             |         [7 - Trivia Game Pt 1](./psets/03/07-trivia-game-pt1)          |
-|             |              [8 - Tic Tac Toe](./psets/03/08-tic-tac-toe)              |
+|             |           [8 - Tic Tac Toe Pt 1](./psets/03/08-tic-tac-toe)            |
 |    [PP2]    |                                                                        |
 |             |              [1 - Hello World](./psets/02/01-hello-world)              |
 |             |               [2 - User Input](./psets/02/02-user-input)               |

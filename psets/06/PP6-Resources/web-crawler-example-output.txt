@@ -1,0 +1,25 @@
+If your web crawler is working, you should end up with something like below. Note that you may have different pages, depending on how you add/remove items into the candidate list. You can open the starting page in your browser (https://sikaman.dyndns.org/courses/4601/resources/N-0.html) and click around to verify you have the right contents in the right files. The page name and the link text is still contained in the page contents (e.g., N-0, N-1, etc.), so you can also verify by looking at the first word in each page. It will be N-0 for N-0.html, N-5 for N-5.html, etc.
+
+pages.txt contents:
+N-0.html
+N-1.html
+N-2.html
+N-4.html
+N-7.html
+
+N-0.html contents:
+N-0 coconut coconut banana coconut peach banana pear banana pear apple coconut pear banana banana coconut banana coconut coconut coconut pear peach pear peach banana coconut pear pear banana apple apple coconut pear banana coconut banana pear apple apple coconut apple peach peach pear banana coconut peach apple apple pear peach apple peach banana apple banana coconut pear banana pear apple banana coconut peach peach apple coconut pear apple pear banana N-1 N-2 N-4 N-7 N-223 N-154 N-191 N-192 N-347 N-607 N-772 N-941
+
+N-1.html contents:
+N-1 apple pear coconut apple apple coconut apple peach banana peach peach apple pear coconut peach coconut peach peach coconut apple apple banana peach pear peach peach apple peach banana N-22 N-139 N-911 N-0 N-9 N-55 N-174 N-590 N-811
+
+N-2.html contents:
+N-2 pear coconut pear apple apple apple pear banana peach peach banana peach apple apple peach banana pear peach banana apple apple pear apple peach pear banana apple pear banana banana pear coconut banana coconut banana apple peach banana banana coconut peach apple apple apple pear peach pear banana apple peach coconut apple coconut coconut peach coconut peach coconut pear apple banana banana apple pear pear banana pear banana pear pear apple apple coconut apple apple peach pear N-5 N-10 N-11 N-30 N-34 N-47 N-56 N-92 N-115 N-169 N-178 N-494 N-650 N-858 N-0 N-3 N-4 N-9 N-31 N-57 N-68 N-90 N-93 N-142 N-189 N-304 N-353 N-388 N-530 N-610 N-685 N-838
+
+N-4.html contents:
+N-4 pear apple pear apple coconut apple apple banana pear apple banana banana pear peach banana pear coconut banana apple coconut apple coconut peach peach apple apple peach peach coconut banana apple apple peach peach coconut peach pear pear banana pear banana apple apple coconut apple banana pear pear apple banana peach peach banana apple coconut apple pear pear pear coconut apple coconut coconut pear coconut coconut pear banana pear apple pear apple peach peach pear peach coconut apple banana pear coconut apple coconut peach N-2 N-9 N-13 N-20 N-28 N-43 N-56 N-75 N-162 N-182 N-284 N-445 N-499 N-681 N-700 N-817 N-955 N-981 N-0 N-6 N-17 N-22 N-107 N-118 N-167 N-181 N-186 N-207 N-295 N-323 N-342 N-953 N-983
+
+N-7.html contents:
+N-7 banana banana coconut coconut coconut banana peach coconut banana banana coconut coconut coconut banana banana coconut banana coconut peach apple coconut apple coconut peach banana pear pear pear apple apple apple banana apple pear peach coconut banana banana N-85 N-129 N-312 N-978 N-0 N-31 N-94 N-364 N-743
+
+
