@@ -12,8 +12,20 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |         [1 - Merging Sorted Lists](./psets/06/01-merge-sorted)         |
 |             |         [2 - Storing Sensor Data](./psets/06/02-sensor-data)           |
 |             |         [3 - Largest Number](./psets/06/03-largest-number)             |
-|             |        [4 - Largest Volume](./psets/05/04-largest-volume)              |
+|             |        [4 - Largest Volume](./psets/06/04-largest-volume)              |
 |             |           [5 - Top X](./psets/06/05-top-x)                             |
+|             |           [6 - Getting Rich](./psets/06/06-getting-rich)               |
+|             |           [7 - Mastermind](./psets/06/07-mastermind)                   |
+|             |         [8 - Queue Implementation](./psets/06/08-queue)                |
+|             |             [9 - Stack Implementation](./psets/06/09-stack)            |
+|             |    [10 - Parentheses Validation](./psets/06/10-parentheses-validation) |
+|             |           [11 - Start and End](./psets/06/11-start-and-end)            |
+|             |                [12 - JSON](./psets/06/12-json)                         |
+|             |    [13 - Inventory System Pt 3](./psets/06/13-inventory-system-part-3) |
+|             |     [14 - Search Engine Pt 2](./psets/06/14-search-engine-part-2)      |
+|             |           [15 - Tic Tac Toe Pt 2](./psets/06/15-tic-tac-toe-part-2)    |
+|             |     [16 - Social Network Pt 2](./psets/06/16-social-network-part-2)    |
+
 |    [PP5]    |                                                                        |
 |             |         [1 - Common Multiples](./psets/05/01-common-multiples)         |
 |             |          [2 - Number of Digits](./psets/05/02-num-of-digits)           |
