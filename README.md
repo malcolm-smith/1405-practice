@@ -8,11 +8,17 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 | Problem Set |                                Problem                                 |
 | :---------: | :--------------------------------------------------------------------: |
+|    [PP6]    |                                                                        |
+|             |         [1 - Merging Sorted Lists](./psets/06/01-merge-sorted)         |
+|             |         [2 - Storing Sensor Data](./psets/06/02-sensor-data)           |
+|             |         [3 - Largest Number](./psets/06/03-largest-number)             |
+|             |        [4 - Largest Volume](./psets/05/04-largest-volume)              |
+|             |           [5 - Top X](./psets/06/05-top-x)                             |
 |    [PP5]    |                                                                        |
 |             |         [1 - Common Multiples](./psets/05/01-common-multiples)         |
 |             |          [2 - Number of Digits](./psets/05/02-num-of-digits)           |
 |             |             [3 - Prime Number](./psets/05/03-prime-number)             |
-|             |              [4 - Binary Quiz](./psets/05/04-binary-quiz)              |
+|             |         [4 - Binary Quiz](./psets/05/04-binary-quiz-game)              |
 |             |           [5 - Grade Analysis](./psets/05/05-grade-analysis)           |
 |             |      [6 - Inventory System Pt 2](./psets/05/06-grade-calculator)       |
 |    [PP4]    |                                                                        |
@@ -51,7 +57,8 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 [pp2]: ./psets/02/PP2.pdf
 [pp3]: ./psets/03/PP3.pdf
 [pp4]: ./psets/04/PP4.pdf
-[pp5]: ./psets/05/PP5/pdf
+[pp5]: ./psets/05/PP5.pdf
+[pp6]: ./psets/06/PP6.pdf
 
 </td><td>
 
