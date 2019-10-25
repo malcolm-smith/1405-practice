@@ -1,0 +1,24 @@
+Below are the expected results for variable functions and input combinations using the small social network example. If you believe there are errors in the expected output, please let Dave know.
+
+getnames() should give you (order is unimportant):
+['Frank', 'Felipa', 'Jasmine', 'Grace', 'Russell', 'Christopher', 'Paula', 'John', 'Jessica', 'James']
+
+getmostpopular() should give you Felipa, Grace (both have 5 friends)
+
+getleastpopular() should give you Jasmine, Russell, Paula, John, Jessica, or James (all have 2 friends)
+
+Recommending friends based on common friends:
+recommendfriendfor("Christopher") should give you Grace (2 common friends)
+recommendfriendfor("James") should give you Frank (2 common friends)
+recommendfriendfor("Jessica") should give you Felipa, Paula, or John (1 common friend)
+recommendfriendfor("Jasmine") should give you Felipa (2 common friends)
+
+Recommending friends based on common interests:
+recommended friends for "Grace" should give you Jasmine (3 interests in common)
+recommended friends for "Russell" should give you Jasmine, John, or James (2 interests in common)
+
+Targeting advertisements based on number of friends:
+targetadvertisement("cycling") should give you Grace (5 friends)
+targetadvertisement("hiking") should give you Grace (5 friends)
+targetadvertisement("cooking") should give you Felipa (5 friends)
+targetadvertisement("dogs") should give you Russell, John, or James (2 friends each)

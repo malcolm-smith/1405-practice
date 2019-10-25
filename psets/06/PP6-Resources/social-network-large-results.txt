@@ -1,0 +1,27 @@
+Below are the expected results for variable functions and input combinations using the large social network example. If you believe there are errors in the expected output, please let Dave know.
+
+getnames() should give you (order is unimportant):
+['Charles', 'Debra', 'Mary', 'Deborah', 'Sue', 'Jennifer', 'Anthony', 'Jack', 'Cody', 'Gina', 'Shannon', 'Nancy', 'Kevin', 'Dorothy', 'Robert', 'Lorraine', 'Juanita', 'Amy', 'Edwin', 'Evelyn', 'Diane', 'Muriel', 'Kenneth', 'Maurice', 'Sergio', 'Kelly', 'Kathy', 'Valerie', 'George', 'Magaly', 'Jonathan', 'Jerome', 'Lori', 'April', 'Ruth', 'Richard', 'Patrick', 'Lauren', 'Greg', 'Brian', 'Eugenia', 'Joyce', 'Paul', 'Vivian', 'Christine', 'Michael', 'Glenn', 'Julius', 'Linda', 'William', 'Jena', 'Deidre', 'Graciela', 'Chase', 'Scott', 'Andrew', 'Martin', 'Ruben', 'Tiffany', 'Deloris', 'Antionette', 'Amanda', 'Theron', 'Courtney', 'Eloise', 'Arleen', 'Jeanne', 'Sandra', 'Kathleen', 'Sarah', 'Gilbert', 'David', 'Donna', 'Gary', 'Timothy', 'Garry', 'Amelia', 'Theressa', 'Juan', 'Mark', 'Miguel', 'Lizzie', 'Lois', 'Albert', 'Joan', 'Kelsey', 'Elizabeth', 'Daniel', 'Terry', 'Dorris', 'Clarence', 'Mildred', 'Laura', 'Rusty', 'Katherine', 'Rosaura', 'John', 'Jeffrey', 'Daryl', 'Donald']
+
+getmostpopular() should give you Shannon (10 friends)
+
+getleastpopular() should give you one of the names below (all have 4 friends):
+['Jack', 'Robert', 'Juanita', 'Maurice', 'Kathy', 'George', 'Jonathan', 'Brian', 'Joyce', 'William', 'Graciela', 'Chase', 'Ruben', 'Antionette', 'Amanda', 'Arleen', 'Sarah', 'Gilbert', 'Donna', 'Timothy', 'Theressa', 'Juan', 'Miguel', 'Lois', 'Albert', 'Joan', 'Kelsey', 'Elizabeth', 'Daniel', 'Dorris', 'Clarence', 'Mildred', 'Rusty', 'John', 'Jeffrey', 'Daryl', 'Donald']
+
+Recommending friends based on common friends:
+recommendfriendfor("Richard") should give you Kenneth, Jerome, Greg, or Theressa (4 common friends)
+recommendfriendfor("Cody") should give you Jennifer, Valerie, or Clarence (4 common friends)
+recommendfriendfor("Joyce") should give you Jena (3 common friend)
+recommendfriendfor("Lori") should give you Kathy, Jeanne (3 common friends)
+
+Recommending friends based on common interests:
+recommended friends for "Anthony" should give you Arleen (5 interests in common)
+recommended friends for "April" should give you Mildred (3 interests in common)
+recommended friends for "Juan" should give you Jerome, Paul, or Joan (4 interests in common)
+
+Targeting advertisements based on number of friends:
+targetadvertisement("travel") should give you Deborah (8 friends)
+targetadvertisement("coffee") should give you Sue, Nancy, or Muriel (8 friends each)
+targetadvertisement("computers") should give you Shannon (10 friends)
+targetadvertisement("fishing") should give you Diane or Kenneth (7 friends each)
+
