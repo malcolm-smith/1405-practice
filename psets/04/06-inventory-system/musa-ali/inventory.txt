@@ -1,3 +1,0 @@
-1000186,yeet machine,9000,59
-1839784,Laptop Computer,1225,15
-7839264,Tablet,600,15
