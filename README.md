@@ -12,7 +12,7 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |         [1 - Common Multiples](./psets/05/01-common-multiples)         |
 |             |          [2 - Number of Digits](./psets/05/02-num-of-digits)           |
 |             |             [3 - Prime Number](./psets/05/03-prime-number)             |
-|             |              [4 - Binary Quiz](./psets/05/04-binary-quiz-game)              |
+|             |              [4 - Binary Quiz](./psets/05/04-binary-quiz)              |
 |             |           [5 - Grade Analysis](./psets/05/05-grade-analysis)           |
 |             |      [6 - Inventory System Pt 2](./psets/05/06-grade-calculator)       |
 |    [PP4]    |                                                                        |
