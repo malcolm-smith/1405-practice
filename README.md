@@ -113,6 +113,23 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
 
 [practice midterm 1]: ./midterm-practice/01/pm1.pdf
 [practice midterm 2]: ./midterm-practice/02/pm2.pdf
