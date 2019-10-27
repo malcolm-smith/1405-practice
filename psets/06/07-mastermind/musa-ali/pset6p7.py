@@ -10,7 +10,10 @@ for i in range(5):
 
 guesses = 10
 guess = []
+
+print("I've set my password, enter 5 digits in the range [0-9] separated by spaces (e.g. 1 3 2 4 4):")
 str_guess = input(str(guesses) + " guesses remaining > ")
+
 # Keep checking guesses until all 10 guesses are used
 while guesses > 1:
 
@@ -33,5 +36,9 @@ while guesses > 1:
 		break
 
 	guesses -= 1
+
 	guess = []
 	str_guess = input(str(guesses) + " guesses remaining > ")
+
+	if guesses == 1 and guess != password:
+		print("You'll never get my treasure because the password was " + str(password))
