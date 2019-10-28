@@ -21,8 +21,6 @@ def getBestStudent(filename):
                 bestStudent = currentStudent
                 bestGrade = float(line)
         counter += 1
-    return bestStudent
-
 
 files = [
     'studentgrades1.txt',
