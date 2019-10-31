@@ -1,6 +1,7 @@
 # Pset 6 Problem 12
 # JSON
 
+# {“key1”:”value1”,”key2”:”value2”,”keyn”:”valuen”}
 
 def jsontolist(string):
 	out = []
