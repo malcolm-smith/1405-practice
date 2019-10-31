@@ -139,7 +139,10 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 [practice midterm 1]: ./midterm-practice/01/pm1.pdf
 [practice midterm 2]: ./midterm-practice/02/pm2.pdf
-[midterm 1 v1]: ./midterms/V1/
-[midterm 1 v2]: ./midterms/V2/
+[midterm 1 v1]: ./midterms/01/V1/
+[midterm 1 v2]: ./midterms/01/V2/
+[midterm 2 v1]: ./midterms/02/V1/
+[midterm 2 v2]: ./midterms/02/V2/
+
 
 </td></tr> </table>
