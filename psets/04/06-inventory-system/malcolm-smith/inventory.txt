@@ -1,0 +1,8 @@
+Desktop Computer
+850
+Laptop Computer
+1225
+Tablet
+600
+Toaster Oven
+85
