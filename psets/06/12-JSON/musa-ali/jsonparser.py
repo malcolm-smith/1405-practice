@@ -1,7 +1,6 @@
 # Pset 6 Problem 12
 # JSON
 
-# {“key1”:”value1”,”key2”:”value2”,”keyn”:”valuen”} 
 
 def jsontolist(string):
 	out = []
@@ -60,12 +59,7 @@ def add(jsonlist, key, value):
 	else:
 		return False
 
-
-
-
-
-
-
+# Test cases
 jl = jsontolist('{"firstname":"dave","lastname":"mckenney","position":"instructor"}')
 print(getvalue(jl, "positiofn"))
 print(jl)
