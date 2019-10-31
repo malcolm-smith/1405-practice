@@ -75,17 +75,23 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 |       Midterm        |                Problem                 |
 | :------------------: | :------------------------------------: |
+|    [Midterm 2 V1]    |                                        |
+|                      |         [1](./midterms/02/V1/01/)      |
+|                      |         [2](./midterms/02/V1/02/)      |
+|    [Midterm 2 V2]    |                                        |
+|                      |         [1](./midterms/02/V2/01/)      |
+|                      |         [2](./midterms/02/V2/02/)      |
 | [Practice Midterm 2] |                                        |
 |                      | [1](./midterm-practice/02/problem-01/) |
 |                      | [2](./midterm-practice/02/problem-02/) |
 |                      | [3](./midterm-practice/02/problem-03/) |
 |                      | [4](./midterm-practice/02/problem-04/) |
 |    [Midterm 1 V1]    |                                        |
-|                      |         [3](./midterms/V1/03/)         |
-|                      |         [4](./midterms/V1/04/)         |
+|                      |         [3](./midterms/01/V1/03/)      |
+|                      |         [4](./midterms/01/V1/04/)      |
 |    [Midterm 1 V2]    |                                        |
-|                      |         [3](./midterms/V2/03/)         |
-|                      |         [4](./midterms/V2/04/)         |
+|                      |         [3](./midterms/01/V2/03/)      |
+|                      |         [4](./midterms/01/V2/04/)      |
 | [Practice Midterm 1] |                                        |
 |                      | [1](./midterm-practice/01/problem-01/) |
 |                      | [2](./midterm-practice/01/problem-02/) |
