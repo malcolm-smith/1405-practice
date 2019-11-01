@@ -17,5 +17,5 @@ def largestvolume(filename):
     boxes.close()
     return largestvolume
 
-for filename in os.listdir('../resources/'):
-    print('%s: %d' % (filename, largestvolume('../resources/' + filename)))
+for filename in os.listdir('../../resources/'):
+    print('%s: %d' % (filename, largestvolume('../../resources/' + filename)))
