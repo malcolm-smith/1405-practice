@@ -1,0 +1,22 @@
+Below are the expected results for variable functions and input combinations using the small social network example. If you believe there are errors in the expected output, please let Dave know.
+
+Targeting advertisements based on number of friends with same interest:
+targetadvertisement("hockey") should give you Grace, Christopher, or John (2 friends each interested in hockey)
+targetadvertisement("gaming") should give you Frank, Felipa, or Christopher (3 friends each interested in gaming)
+
+Finding people within a given distance:
+For Jasmine with distance 0: ['Jasmine']
+For Jasmine with distance 1: ['Frank', 'James', 'Jasmine']
+For Jasmine with distance 2: ['Christopher', 'Felipa', 'Frank', 'James', 'Jasmine']
+For Jasmine with distance 3: ['Jasmine', 'Frank', 'Christopher', 'Felipa', 'John', 'James', 'Grace', 'Paula']
+
+For Paula with distance 0: ['Paula']
+For Paula with distance 1: ['Felipa', 'Grace', 'Paula']
+For Paula with distance 2: ['Christopher', 'Felipa', 'Frank', 'Grace', 'James', 'Jessica', 'John', 'Paula', 'Russell']
+For Paula with distance 3: ['Christopher', 'Felipa', 'Frank', 'Grace', 'James', 'Jasmine', 'Jessica', 'John', 'Paula', 'Russell']
+
+Targeting advertisements based on interest and others interested within distnace:
+targetadvertisementdistance("hockey", 2) should give you Grace, Christopher, or John
+targetadvertisementdistance("gaming", 2) should give you Frank, Felipa, or Christopher
+Note: these results are identical to the results above - this is mostly because the network is so small
+

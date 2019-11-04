@@ -1,0 +1,25 @@
+Below are the expected results for variable functions and input combinations using the large social network example. If you believe there are errors in the expected output, please let Dave know.
+
+Targeting advertisements based on number of friends with same interest:
+targetadvertisement("gaming") should give you Cody (4 friends interested)
+targetadvertisement("coffee") should give you Kenneth or Jeffrey (4 friends each interested)
+targetadvertisement("computers") should give you Shannon or Patrick (5 friends each interested)
+targetadvertisement("fishing") should give you Kelly (5 friends interested)
+
+Finding people within a given distance:
+
+For Donald with distance 0: ['Donald']
+For Donald with distance 1: ['Donald', 'Kenneth', 'Laura', 'Ruth', 'Theron']
+For Donald with distance 2: ['Anthony', 'Chase', 'Christine', 'Courtney', 'Debra', 'Donald', 'Garry', 'George', 'Greg', 'Jeffrey', 'Jena', 'Jennifer', 'Kenneth', 'Laura', 'Lizzie', 'Patrick', 'Ruth', 'Sandra', 'Sue', 'Theron']
+For Donald with distance 3: ['Albert', 'Amelia', 'Amy', 'Anthony', 'Antionette', 'Charles', 'Chase', 'Christine', 'Clarence', 'Cody', 'Courtney', 'Daniel', 'Daryl', 'Debra', 'Donald', 'Dorothy', 'Edwin', 'Eloise', 'Eugenia', 'Evelyn', 'Garry', 'George', 'Gina', 'Glenn', 'Greg', 'Jack', 'Jeanne', 'Jeffrey', 'Jena', 'Jennifer', 'John', 'Juan', 'Julius', 'Kathleen', 'Kenneth', 'Kevin', 'Laura', 'Lizzie', 'Lois', 'Lori', 'Lorraine', 'Magaly', 'Mark', 'Martin', 'Michael', 'Mildred', 'Muriel', 'Nancy', 'Patrick', 'Richard', 'Robert', 'Rusty', 'Ruth', 'Sandra', 'Scott', 'Sergio', 'Sue', 'Terry', 'Theron', 'Tiffany', 'Timothy', 'Vivian', 'William']
+
+For Richard with distance 0: ['Richard']
+For Richard with distance 1: ['Debra', 'Juan', 'Katherine', 'Miguel', 'Mildred', 'Richard', 'Shannon']
+For Richard with distance 2: ['Amelia', 'Amy', 'Anthony', 'Antionette', 'Brian', 'Chase', 'Deborah', 'Debra', 'Deidre', 'Diane', 'Donna', 'Eloise', 'Gary', 'Glenn', 'Greg', 'Jennifer', 'John', 'Juan', 'Katherine', 'Kenneth', 'Laura', 'Lauren', 'Lizzie', 'Lori', 'Mark', 'Maurice', 'Miguel', 'Mildred', 'Richard', 'Rosaura', 'Shannon', 'Tiffany', 'Valerie']
+
+Targeting advertisements based on interest and others interested within distance:
+targetadvertisementdistance("gaming", 2) should give you Cody (5 reachable interested)
+targetadvertisementdistance("gaming", 3) should give you April (15 reachable interested people)
+targetadvertisementdistance("coffee", 3) should give you Jennifer (14 reachable interested people)
+targetadvertisementdistance("fishing", 2) should give you Kelly (6 reachable interested)
+targetadvertisementdistance("fishing", 3) should give you Deidre (14 reachable interested each)
