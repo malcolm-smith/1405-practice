@@ -18,7 +18,6 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |             |     [7 - Nesting Dictionaries](./psets/07/07-nesting-dictionaries/)     |
 |             |         [8 - Trivia Game Pt 3](./psets/07/08-trivia-game-pt3/)          |
 |             |       [9 - Search Engine Pt 3](./psets/07/09-search-engine-pt3/)        |
-|             |                                                                         |
 |    [PP6]    |                                                                         |
 |             |        [1- Merge Sorted Lists](./psets/06/01-merge-sorted-lists)        |
 |             |              [2 - Sensor Data](./psets/06/02-sensor-data)               |
