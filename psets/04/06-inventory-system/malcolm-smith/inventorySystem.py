@@ -1,3 +1,5 @@
+# not complete
+
 inventory = {}
 
 def showmenu():
