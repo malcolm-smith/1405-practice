@@ -10,9 +10,9 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 | :---------: | :---------------------------------------------------------------------: |
 |    [PP7]    |                                                                         |
 |             |         [1 - Counting Letters](./psets/07/01-counting-letters/)         |
-|             | [2 - Dictionaries & Counting](./psets/07/02-dicitonaries-and-counting/) |
-|             |               [3 - Morse Code](./psets/07/04-morse-code/)               |
-|             |        [4 - JSON Dictionaries](./psets/07/04-JSON-dicitonaries/)        |
+|             | [2 - Dictionaries & Counting](./psets/07/02-dictionaries-and-counting/) |
+|             |               [3 - Morse Code](./psets/07/03-morse-code/)               |
+|             |        [4 - JSON Dictionaries](./psets/07/04-JSON-dictionaries/)        |
 |             |            [5 - Text Analysis](./psets/07/05-text-analysis/)            |
 |             |       [6 - Minimizing Runtime](./psets/07/06-minimizing-runtime/)       |
 |             |     [7 - Nesting Dictionaries](./psets/07/07-nesting-dictionaries/)     |
