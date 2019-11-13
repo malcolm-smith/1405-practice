@@ -6,7 +6,7 @@ def playmastermind():
 
     print("I've set my password, enter 5 digits in the range [0-9]separated by spaces(e.g. 1 3 2 4 4):")
 
-    for i in range(1, 0, -1):
+    for i in range(10, 0, -1):
         guess = [int(i) for i in input('%d guesses remaining > ' % i).split(' ')]
         amountright = comparelists(password, guess)
         print('%d of 5 correct' % amountright)
