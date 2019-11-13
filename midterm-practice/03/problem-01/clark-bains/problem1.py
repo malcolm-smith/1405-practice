@@ -3,9 +3,9 @@ def search_employees (s1, s2):
     matching = []
     for line in f:
         if s2.lower() in line.split(',')[1].lower():
-            matching.append(line.split(new',')[1].strip())
+            matching.append(line.split(',')[1].strip())
     return matching
-def analyze_pay (s1):new
+def analyze_pay (s1):
     f = open (s1,"r")
     retVal = [None, None, None]
     count = 0
