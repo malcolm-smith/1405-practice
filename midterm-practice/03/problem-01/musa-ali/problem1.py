@@ -25,8 +25,3 @@ def analyze_pay(file):
 	avg_pay = total / len(pays)
 	pays_list = [avg_pay, max(pays), min(pays)]
 	return pays_list
-
-
-
-print(search_employees('../employee_info0.txt', 'a'))
-print(analyze_pay('../employee_info1.txt'))

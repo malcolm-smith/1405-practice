@@ -12,7 +12,3 @@ def removehtml(string):
 			words.append(string[:a])
 			string = string[a:]
 	return " ".join(words)
-
-print(removehtml('<html><head><title>Page Title<title><head><html>'))
-print(removehtml('<a href=”p1”>Link 1</a><a href=”p2”>Link 2</a>'))
-print(removehtml('<p>Click <a href=”here.html”>here</a></p>'))
