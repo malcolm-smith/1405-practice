@@ -4,7 +4,6 @@ def removehtml(string):
 	words = []
 	while '<' in string:
 		while len(string) > 0 and string[0] == '<':
-			a = string.find('<')
 			b = string.find('>')
 			string = string[b+1:]
 		if len(string) > 0 and string[0] != '<':

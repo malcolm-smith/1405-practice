@@ -21,3 +21,5 @@ def xmostfrequent(s, x):
 		freqs_list.append(largest_word)
 
 	return freqs_list
+
+print(xmostfrequent('peach apple peach apple peach orange', 3))

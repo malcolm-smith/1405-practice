@@ -9,7 +9,6 @@ def isvalidseries(lst, x, SUM):
 			total += lst[k]
 			k += 1
 			j += 1
-		print(total)
 		if total > SUM:
 			return False
 	return True
