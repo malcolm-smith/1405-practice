@@ -1,0 +1,16 @@
+0,490,243,Yield Sign,Juan
+1,146,238,Stop Sign,Jackie
+2,358,431,Stop Sign,Wendy
+3,223,263,Yellow Light,Mary
+4,260,443,Yellow Light,Holly
+5,276,284,Green Light,Shannon
+6,222,179,Yellow Light,Betty
+7,173,340,Stop Sign,Hazel
+8,222,288,Yield Sign,Charles
+9,203,108,Yellow Light,Larry
+10,462,438,Yellow Light,Cheyenne
+11,249,384,Stop Sign,Robert
+12,235,283,Yellow Light,Lucille
+13,301,128,Red Light,Alvin
+14,176,414,Yield Sign,Brittany
+15,132,123,Green Light,Kristen
