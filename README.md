@@ -86,6 +86,14 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 |       Midterm        |                Problem                 |
 | :------------------: | :------------------------------------: |
+|    [Midterm 3 V1]    |                                        |
+|                      |       [1](./midterms/03/V1/01/)        |
+|                      |       [2](./midterms/03/V1/02/)        |
+|                      |       [3](./midterms/03/V1/03/)        |
+|    [Midterm 3 V2]    |                                        |
+|                      |       [1](./midterms/03/V2/01/)        |
+|                      |       [2](./midterms/03/V2/02/)        |
+|                      |       [3](./midterms/03/V2/03/)        |
 | [Practice Midterm 3] |                                        |
 |                      | [1](./midterm-practice/03/problem-01/) |
 |                      | [2](./midterm-practice/03/problem-02/) |
@@ -159,6 +167,7 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 [midterm 1 v2]: ./midterms/01/V2/
 [midterm 2 v1]: ./midterms/02/V1/
 [midterm 2 v2]: ./midterms/02/V2/
-
+[midterm 3 v1]: ./midterms/03/V1/
+[midterm 3 v2]: ./midterms/03/V2/
 
 </td></tr> </table>
