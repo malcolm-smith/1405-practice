@@ -8,6 +8,12 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 | Problem Set |                                 Problem                                 |
 | :---------: | :---------------------------------------------------------------------: |
+|    [PP8]    |                                                                         |
+|             |         [1 - Galloping Search](./psets/08/01-galloping-search/)         |
+|             |            [2 - Counting Sort](./psets/08/02-counting-sort/)            |w
+|             |               [3 - Quick Sort](./psets/08/03-quick-sort/)               |
+|             |   [4 - Binary Search Counting](./psets/08/04-binary-search-counting/)   |
+|             |                [5 - Comb Sort](./psets/08/05-comb-sort/)                |
 |    [PP7]    |                                                                         |
 |             |         [1 - Counting Letters](./psets/07/01-counting-letters/)         |
 |             | [2 - Dictionaries & Counting](./psets/07/02-dictionaries-and-counting/) |
@@ -122,8 +128,6 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |                      | [2](./midterm-practice/01/problem-02/) |
 |                      | [3](./midterm-practice/01/problem-03/) |
 |                      | [4](./midterm-practice/01/problem-04/) |
-|                      |                   -                    |
-|                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
