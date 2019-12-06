@@ -8,9 +8,16 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 | Problem Set |                                 Problem                                 |
 | :---------: | :---------------------------------------------------------------------: |
+|    [PP9]    |                                                                         |
+|             |              [1 - Multiplying](./psets/08/01-multiplying/)              |
+|             |         [2 - Reversing String](./psets/08/02-reversing-string/)         |
+|             |            [3 - Merging Lists](./psets/08/03-merging-lists/)            |
+|             | [4 - Nesting Dictionaries](./psets/08/04-binary-nesting-dictionaries/)  |
+|             |    [5 - Factorials & Caching](./psets/08/05-factorials-and-caching/)    |
+|             |         [6 - Tic Tac Toe Pt 3](./psets/08/05-tic-tac-toe-pt3/)          |
 |    [PP8]    |                                                                         |
 |             |         [1 - Galloping Search](./psets/08/01-galloping-search/)         |
-|             |            [2 - Counting Sort](./psets/08/02-counting-sort/)            |w
+|             |            [2 - Counting Sort](./psets/08/02-counting-sort/)            |
 |             |               [3 - Quick Sort](./psets/08/03-quick-sort/)               |
 |             |   [4 - Binary Search Counting](./psets/08/04-binary-search-counting/)   |
 |             |                [5 - Comb Sort](./psets/08/05-comb-sort/)                |
@@ -128,6 +135,13 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |                      | [2](./midterm-practice/01/problem-02/) |
 |                      | [3](./midterm-practice/01/problem-03/) |
 |                      | [4](./midterm-practice/01/problem-04/) |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
+|                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
