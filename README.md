@@ -99,8 +99,10 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 
 </td><td>
 
-|       Midterm        |                Problem                 |
+|      Evaluation      |                Problem                 |
 | :------------------: | :------------------------------------: |
+|   [Practice Final]   |                                        |
+|                      |              [1](./exam/)              |
 |    [Midterm 3 V1]    |                                        |
 |                      |       [1](./midterms/03/V1/01/)        |
 |                      |       [2](./midterms/03/V1/02/)        |
@@ -177,9 +179,8 @@ Here you can find solutions for COMP 1405 material. Either fork and pull request
 |                      |                   -                    |
 |                      |                   -                    |
 |                      |                   -                    |
-|                      |                   -                    |
-|                      |                   -                    |
 
+[Practice Final]: ./exam/final.pdf
 [practice midterm 1]: ./midterm-practice/01/pm1.pdf
 [practice midterm 2]: ./midterm-practice/02/pm2.pdf
 [practice midterm 3]: ./midterm-practice/03/pm3.pdf
