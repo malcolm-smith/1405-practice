@@ -1,0 +1,9 @@
+Anthony Mceachern,89,50,67,67
+Donald Anderson,79,65,79,92
+Ethel Snell,62,58,64,90
+Susan Ladue,65,71,52,96
+Timothy Ramirez,63,87,99,52
+James Wilbanks,91,61,57,52
+Denise Sterner,93,94,87,75
+Larry Haines,55,71,75,51
+Jose Gilbert,80,70,64,86

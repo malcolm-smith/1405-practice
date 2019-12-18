@@ -1,0 +1,5 @@
+Sean Fields,99,53,77,81
+Ignacio Mcclung,82,70,65,56
+Roger Noble,77,50,57,77
+Max Kirby,64,68,87,70
+John Hoover,83,82,80,93

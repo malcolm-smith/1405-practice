@@ -1,0 +1,8 @@
+Mamie Donaldson,96,98,89,51
+Heidi Jones,81,66,93,55
+Ruth Klena,78,68,99,82
+Ronald Carrion,94,77,81,98
+Larry Zimmerman,60,78,56,82
+Richard Moffat,76,68,58,99
+Jerald Phillips,62,65,90,73
+Coleen Bone,77,87,91,66

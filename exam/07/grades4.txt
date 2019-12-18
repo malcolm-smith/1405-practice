@@ -1,0 +1,13 @@
+Tiffany Mclavrin,51,91,81,79
+Marina Maggio,83,92,83,68
+Dale Ballantyne,100,87,66,87
+Jonathan Graff,74,96,71,67
+James Uber,97,96,71,90
+Damian Payne,78,79,97,55
+Rita Cronin,63,84,95,99
+Michael Reed,97,86,96,63
+Alisha Streiff,95,60,80,88
+Jeffrey Heck,79,85,73,71
+Eleanor Terrell,55,93,91,99
+Annette Young,84,98,76,72
+Margaret Hall,73,77,99,85
