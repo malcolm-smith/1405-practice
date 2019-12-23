@@ -1,0 +1,7 @@
+def isvalidseries(l,x,s1):
+    valid = True
+    for i in range (len(l)-x+1):
+        s2 = sum(l[i:(i+x)])
+        if s2 > s1:
+            valid = False
+    return valid
